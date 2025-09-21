@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b_menemen",
+    "name": "Menemen",
+    "mealType": "KAHVALTI",
+    "ingredients": [
+      "3 yumurta",
+      "2 domates",
+      "1 yeşil biber",
+      "2 YK zeytinyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "steps": [
+      "Biberi sotele.",
+      "Domatesi ekle, suyunu çektir.",
+      "Yumurtaları kır, karıştırarak pişir."
+    ],
+    "durationMin": 15,
+    "notes": "Peynirlisi nefis.",
+    "isVegetarian": true,
+    "isVegan": false,
+    "glutenFree": true,
+    "lactoseFree": true,
+    "cost": "₺",
+    "calories": 300
+  },
+  {
+    "id": "l_sezar",
+    "name": "Tavuklu Sezar Dürüm",
+    "mealType": "OGLE",
+    "ingredients": [
+      "150 g ızgara tavuk",
+      "Tortilla",
+      "Marul",
+      "Parmesan",
+      "Sezar sos"
+    ],
+    "steps": [
+      "Tavuğu şerit kes.",
+      "Malzemelerle sar."
+    ],
+    "durationMin": 20,
+    "isVegetarian": false,
+    "isVegan": false,
+    "glutenFree": false,
+    "lactoseFree": false,
+    "cost": "₺₺",
+    "calories": 650
+  },
+  {
+    "id": "d_fasulye",
+    "name": "Zeytinyağlı Taze Fasulye",
+    "mealType": "AKSAM",
+    "ingredients": [
+      "Fasulye",
+      "Soğan",
+      "Domates",
+      "Zeytinyağı"
+    ],
+    "steps": [
+      "Soğanı sotele.",
+      "Fasulye/domates ekle.",
+      "Kısık ateşte pişir."
+    ],
+    "durationMin": 45,
+    "isVegetarian": true,
+    "isVegan": true,
+    "glutenFree": true,
+    "lactoseFree": true,
+    "cost": "₺",
+    "calories": 390
+  }
+]
